@@ -1,3 +1,7 @@
+/*
+数组基本操作联系
+*/
+
 #include<iostream>
 using namespace std;
 
